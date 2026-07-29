@@ -17,11 +17,13 @@
 6. [Instalación Local](#-instalación-local)
 
 ---
+
 ### [Enlace del proyecto](https://plantitafront.vercel.app/)
 ## Video Explicativo
 <a href="https://www.youtube.com/watch?v=PAiPFPRXcG0" target="_blank">
   <img src="https://img.youtube.com/vi/PAiPFPRXcG0/hqdefault.jpg" width="400">
 </a>
+
 ---
 ##  Contexto del Proyecto
 
