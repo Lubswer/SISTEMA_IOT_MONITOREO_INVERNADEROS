@@ -37,7 +37,7 @@ En la agricultura moderna e invernaderos automatizados, el control preciso de va
 
 ---
 
-## 🛠️ Stack Tecnológico
+## Stack Tecnológico
 
 ### **Backend (Servidor & API REST)**
 * **Node.js**: Entorno de ejecución asíncrono para JavaScript.
