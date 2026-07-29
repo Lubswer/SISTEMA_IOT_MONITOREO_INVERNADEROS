@@ -1,4 +1,4 @@
-#  GreenHOUSE  - Sistema de Monitoreo y Gestión Agrónoma de Invernaderos
+#  GreenHOUSE  - Sistema de Monitoreo y Gestión de Invernaderos
 
 **GreenHOUSE** es una plataforma web integral desarrollada bajo la arquitectura **MERN Stack** (MongoDB, Express, React, Node.js), diseñada para la automatización, control y monitoreo inteligente de cultivos en invernaderos. La plataforma integra asistencia agrónoma automatizada mediante Inteligencia Artificial (Groq API), chat de soporte en tiempo real (Socket.IO) y una infraestructura resiliente desplegada en la nube.
 
